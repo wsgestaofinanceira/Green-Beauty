@@ -13,3 +13,4 @@ App web simples (HTML único, sem dependências) da Green Beauty.
 
 - `index.html` – o app completo (logo já embutida).
 - `logo.jpg` – logo original, para referência.
+- `manifest.json` e `icon-*.png`, `apple-touch-icon.png` – ícone e configuração para instalar como app.
